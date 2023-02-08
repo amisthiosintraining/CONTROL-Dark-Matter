@@ -1,7 +1,7 @@
 # CONTROL | Dark / White Matter
 Texture mod based on stars and the galaxy.
 
-<img src="https://imgur.com/wJvZCip.png" alt="Dark Matter" style="width:420px;"> <img src="https://imgur.com/Pk7CFKN.png" alt="White Matter" style="width:420px;">
+<img src="https://imgur.com/wJvZCip.png" alt="Dark Matter" style="width:400px;"> <img src="https://imgur.com/Pk7CFKN.png" alt="White Matter" style="width:400px;">
 
 Instructions to Install
 ------
