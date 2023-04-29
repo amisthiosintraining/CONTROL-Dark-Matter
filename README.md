@@ -3,7 +3,7 @@ Texture mod based on stars and the galaxy.
 
 <img src="https://imgur.com/wJvZCip.png" alt="Dark Matter" style="width:400px;"> <img src="https://imgur.com/Pk7CFKN.png" alt="White Matter" style="width:400px;">
 
-Instructions to Install
+Installation
 ------
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
 2) If you haven't obtained the PS4 exclusive outfits (Urban Response, Astral Dive, Tactical Response) or others please refer to Fallbob's page <a href="https://www.nexusmods.com/control/mods/33">here</a> on how to acquire them.
@@ -14,7 +14,7 @@ Instructions to Install
 `C:\Epic Games\Control`
 <br>`C:\SteamLibrary\steamapps\common\Control`
 
-Uninstallation
+Removal
 ------
 Go to where you installed the mod either C: or D: or wherever you have your game installed.
 
